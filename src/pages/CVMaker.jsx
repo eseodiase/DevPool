@@ -1,3 +1,5 @@
+import React from "react";
+
 const CVMaker =()=>{
 function Printin(){
             var divContents = document.querySelector("#dvContainer").innerHTML;
