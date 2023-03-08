@@ -9,9 +9,9 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/" element={<Layout />} />
           <Route index element={<Home />} />
-          <Route path="cvmaker" element={<CVMaker />}>
+          <Route path="cvmaker" element={<CVMaker />} />
         </Route>
       </Routes>
     </BrowserRouter>
