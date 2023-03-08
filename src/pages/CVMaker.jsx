@@ -18,5 +18,5 @@ function Printin(){
     </form>
     )
 }
-}
+
 export default CVMaker;
