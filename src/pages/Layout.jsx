@@ -21,6 +21,9 @@ const Layout = () => {
           <li>
             <Link to="/engineer">Software Engineer Jobs</Link>
           </li>
+         <li>
+            <Link to="/cvmaker">CV Maker</Link>
+          </li>
         </ul>
       </nav>
 
